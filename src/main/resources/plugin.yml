@@ -1,0 +1,14 @@
+main: me.hypersmc.jumpwatch.housing.Main
+version: 0.5
+api-version: 1.13
+name: Playerhousing
+description: Player Housing is a copy from Hypixel just made from the community to the commnity.
+authors:
+  - JumpWatch
+  - HypersMC
+  - Contributors
+softdepend:
+  - WorldEdit
+  - AsyncWorldEdit
+  - Citizens
+  - PlaceholderAPI
